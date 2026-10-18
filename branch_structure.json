@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/1384-notification-provider-health",
+    "main",
+    "origin",
+    "revert-1110-redgem/security-fix-aca5fe8a",
+    "revert-871-feature/upload-integrity-verification"
+  ],
+  "parent": {
+    "fix/1384-notification-provider-health": "main",
+    "main": null,
+    "origin": "main",
+    "revert-1110-redgem/security-fix-aca5fe8a": "main",
+    "revert-871-feature/upload-integrity-verification": "main"
+  },
+  "order": [
+    "main",
+    "fix/1384-notification-provider-health",
+    "origin",
+    "revert-1110-redgem/security-fix-aca5fe8a",
+    "revert-871-feature/upload-integrity-verification"
+  ]
+}
